@@ -1,0 +1,2 @@
+rootProject.name = 'java-code-suggestion'
+include 'legacy-java8', 'java8', 'java11', 'java17'
